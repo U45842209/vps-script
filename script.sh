@@ -1,1 +1,1 @@
-@Echo off
+#!/bin/bash
