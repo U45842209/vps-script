@@ -1,1 +1,1 @@
-echo @off
+@Echo off
